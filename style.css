@@ -1,0 +1,98 @@
+ *{
+    margin: 10px;
+    padding: 10px;
+    /* background: #a74747; */
+ }
+ .container_1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #5b452a;
+ }
+ h1 ,h3{
+    text-align: center;
+    background: #03fdf0;
+    color: rgb(12, 79, 79);
+    text-transform: capitalize;
+ }
+
+ .box-1{
+    height: 100px;
+    width: 100px;
+    background: burlywood;
+    text-align: center;
+ }
+  .box-2{
+    height: 100px;
+    width: 100px;
+    background: rgb(195, 137, 62);
+    text-align: center;
+ }
+  .box-3{
+    height: 100px;
+    width: 100px;
+    background: rgb(227, 136, 18);
+    text-align: center;
+ }
+  .box-4{
+
+    height: 100px;
+    width: 100px;
+    background: rgb(108, 47, 12);
+    text-align: center;
+ }
+ #box-5{
+    margin: auto;
+    height: 20px;
+    color: rgb(104, 153, 118);
+    background: #045102;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: dashed;
+    text-shadow: #89cb17;
+ }
+  .box-6{
+    height: 100px;
+    width: 100px;
+    background: rgb(61, 29, 1);
+    text-align: center;
+ }
+ .container_2{
+    background: #494563;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 0px;
+ }
+  .box-7{
+    margin:  ;
+    height: 40px;
+    width: 150px;
+    background: rgb(50, 24, 125);
+    text-align: center;
+ }
+   .box-8{
+    margin: 100px 150px ;
+    height: 40px;
+    width: 150px;
+    background: rgb(50, 24, 125);
+    text-align: center;
+ }
+   .box-9{
+    margin-left: 00px ;
+    height: 40px;
+    width: 150px;
+    background: rgb(50, 24, 125);
+    text-align: center;
+ }
+   .box-10{
+    margin: 100px ;
+    height: 40px;
+    width: 150px;
+    background: rgb(50, 24, 125);
+    text-align: center;
+ }
+  .container_3{
+    background: #5a5771;
+    display: flex;
+    justify-content: space-evenly;
+ }
